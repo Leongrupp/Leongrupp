@@ -1,0 +1,9 @@
+.tmp/
+.cache/
+archive/
+logs/
+output/
+exports/
+__pycache__/
+*.pyc
+.env
